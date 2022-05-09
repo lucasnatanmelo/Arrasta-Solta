@@ -2,7 +2,7 @@
 
 Link: https://lucasnatanmelo.github.io/arrastaEsolta/
 
- ##Sobre o projeto
+## Sobre o projeto
  
 Arrasta e solta - Exercício utilizando HTML, CSS e JavaScript - Responsivo
 
